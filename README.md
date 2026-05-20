@@ -21,6 +21,29 @@
 
 ---
 
+## Install
+
+使用 `npx skills` 安装：
+
+```bash
+npx skills@latest add hry1729/female-character-prompt-skill
+```
+
+如需使用本地目录安装：
+
+```bash
+npx skills@latest add ./female-character-prompt-skill
+```
+
+查看已安装 Skills：
+
+```bash
+npx skills@latest list
+```
+
+> 如果你的 GitHub 用户名或仓库名不同，请将 `hry1729/female-character-prompt-skill` 替换为你自己的仓库地址。
+
+
 ## Framework
 
 本 Skill 使用以下固定框架：
@@ -140,27 +163,7 @@
 
 ---
 
-## Install
 
-使用 `npx skills` 安装：
-
-```bash
-npx skills@latest add hry1729/female-character-prompt-skill
-```
-
-如需使用本地目录安装：
-
-```bash
-npx skills@latest add ./female-character-prompt-skill
-```
-
-查看已安装 Skills：
-
-```bash
-npx skills@latest list
-```
-
-> 如果你的 GitHub 用户名或仓库名不同，请将 `hry1729/female-character-prompt-skill` 替换为你自己的仓库地址。
 
 ---
 
