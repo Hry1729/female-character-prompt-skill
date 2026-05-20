@@ -8,7 +8,7 @@
 
 > 主体定位 → 构图镜头 → 动作状态 → 面部皮肤 → 发型发色 → 服装材质 → 环境场景 → 光线色彩 → 风格渲染 → 负面约束
 
-它适合用于即梦 AI、Seedream / Seedance、Midjourney、Stable Diffusion、可灵、Runway、ComfyUI 等文生图或图生视频工作流中的提示词生成与改写。
+它适合用于chat-image-2，其他文生图大模型中，即梦经过测试效果不太好，其他模型未做测试，包括Seedream / Seedance、Midjourney、Stable Diffusion、可灵、Runway、ComfyUI 等文生图或图生视频工作流中的提示词生成与改写。
 
 ---
 
