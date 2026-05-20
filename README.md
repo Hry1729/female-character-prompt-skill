@@ -42,7 +42,7 @@ npx skills@latest list
 ```
 
 > 如果你的 GitHub 用户名或仓库名不同，请将 `hry1729/female-character-prompt-skill` 替换为你自己的仓库地址。
-
+---
 
 ## Framework
 
